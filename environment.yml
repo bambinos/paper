@@ -1,0 +1,15 @@
+name: bambi_joss
+channels:
+  - conda-forge
+dependencies:
+  - python>=3.7
+  - arviz==0.11.2
+  - bambi==0.6.1
+  - ipywidgets
+  - jupyter
+  - jupyterlab
+  - matplotlib
+  - pip
+  - pymc3==3.11.2
+  - python-graphviz
+  - watermark
