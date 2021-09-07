@@ -1,4 +1,4 @@
-This repository contains the code for **Bambi: A simple interface for fitting Bayesian linearmodels in Python**.
+This repository contains the code for **Bambi: A simple interface for fitting Bayesian linear models in Python**.
 
 This repository contains two versions of the same code.
 
