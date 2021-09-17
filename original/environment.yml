@@ -1,10 +1,10 @@
-name: bambi_joss
+name: bambi_jss
 channels:
   - conda-forge
 dependencies:
   - python>=3.7
   - arviz==0.11.2
-  - bambi==0.6.1
+  - bambi==0.6.2
   - ipywidgets
   - jupyter
   - jupyterlab
