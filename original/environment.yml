@@ -4,7 +4,7 @@ channels:
 dependencies:
   - python>=3.9
   - arviz==0.12
-  - bambi==0.7.1
+  - bambi==0.8.0
   - jupyter
   - pymc3==3.11.4
   - python-graphviz
