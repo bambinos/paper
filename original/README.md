@@ -8,7 +8,7 @@ This folder contains an `environment.yml` file that lists the packages needed to
 conda env create -f environment.yml
 ```
 
-This will create an isolated conda environment called `bambi_joss` into which all of the listed packages and their requirements will be installed. You then have to activate the environment by executing the following in the same terminal window:
+This will create an isolated conda environment called `bambi_jss` into which all of the listed packages and their requirements will be installed. You then have to activate the environment by executing the following in the same terminal window:
 
 ```bash
 conda activate bambi_joss
